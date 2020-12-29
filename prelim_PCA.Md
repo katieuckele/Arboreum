@@ -18,6 +18,7 @@ Broken down by country:
 
 ![arbPCA_by_country](https://user-images.githubusercontent.com/30299787/103182305-3f897c80-485f-11eb-9c52-b4f7a2aeb58a.jpg)
 
+# Costa Rica
 ## Subset data set to Costa Rica only, and color code by population:
 
 ![PCA_prelim_arboreumCR](https://user-images.githubusercontent.com/30299787/103182408-e3732800-485f-11eb-8ff1-7a4b2da8cac1.jpg)
@@ -25,3 +26,9 @@ Broken down by country:
 ### Plot each population on its own to enhance visualization:
 
 ![arbCR_by_population](https://user-images.githubusercontent.com/30299787/103182367-ab6be500-485f-11eb-9e37-6f6da6fcf5f2.jpg)
+
+# Panama
+## Subset data set to Panama only, and color code by population:
+
+![PCA_prelim_arboreumPA](https://user-images.githubusercontent.com/30299787/103253612-bcd3f080-4936-11eb-86d7-c3a6bed69c3f.jpg)
+
