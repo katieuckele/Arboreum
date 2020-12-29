@@ -1,13 +1,13 @@
 | Population | N  | Latitude   | Longitude  | Country    | State/Provence   | Description                                                            |
 |------------|----|------------|------------|------------|------------------|------------------------------------------------------------------------|
-| BD         | 26 | NA         | NA         | Brazil     |                  | Brasília                                                               |
+| BD         | 26 | -15.9474   | -47.9414   | Brazil     | Distrito Federal | Estação Experimental da Fazenda Agua Limpia (Area 1)                   |
 | CA         | 19 | -15.087817 | -47.16035  | Brazil     | Distrito Federal | Estação Ecológica de Águas Emendadas (Area 2)                          |
 | CH         | 19 | -14.083333 | -47.466667 | Brazil     | Goiás            | Parque Nacional da Chapada dos Veadeiros (Area 1)                      |
 | CL         | 9  | -15.2514   | -39.22705  | Brazil     | São Paulo        | Colônia                                                                |
 | CO         | 13 | -14.135033 | -47.670267 | Brazil     | Goiás            | Parque Nacional da Chapada dos Veadeiros (Area 2; near Colinas do Sul) |
 | CS         | 5  | NA         | NA         | Brazil     |                  | CSA                                                                    |
 | FL         | 9  | -15.757083 | -48.077667 | Brazil     | Distrito Federal | Brasília National Forest                                               |
-| FZ         | 18 | -15.94     | -47.939833 | Brazil     | Distrito Federal | Water treatment facility (Area 1; entrance of forest)                  |
+| FZ         | 18 | -15.94     | -47.939833 | Brazil     | Distrito Federal | Estação Experimental da Fazenda Agua Limpia (Area 2)                   |
 | IB         | 15 | -15.94665  | -47.86865  | Brazil     | Distrito Federal | Reserva Ecológica de IBGE                                              |
 | JA         | 18 | -15.88135  | -47.836783 | Brazil     | Distrito Federal | Jardim Botânico de Brasília (Area 1)                                   |
 | JB         | 5  | -15.889467 | -47.84185  | Brazil     | Distrito Federal | Jardim Botânico de Brasília (Area 2)                                   |
