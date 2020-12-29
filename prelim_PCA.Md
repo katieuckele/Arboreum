@@ -27,8 +27,20 @@ Broken down by country:
 
 ![arbCR_by_population](https://user-images.githubusercontent.com/30299787/103182367-ab6be500-485f-11eb-9e37-6f6da6fcf5f2.jpg)
 
+## Now color code by accession 
+
+![PCAarb_CRall_by_accession](https://user-images.githubusercontent.com/30299787/103255387-feb46500-493d-11eb-8e98-764f6684bafa.jpeg)
+
+### Plot each accession on its own to enhance visualization:
+
+![PCAarb_CRsplit_by_accession](https://user-images.githubusercontent.com/30299787/103255410-0ffd7180-493e-11eb-9723-95257cc0ed8f.jpeg)
+
 # Panama
 ## Subset data set to Panama only, and color code by population:
 
 ![PCA_prelim_arboreumPA](https://user-images.githubusercontent.com/30299787/103253612-bcd3f080-4936-11eb-86d7-c3a6bed69c3f.jpg)
+
+## Now color code by accession 
+
+![PCAarb_PAall_by_accession](https://user-images.githubusercontent.com/30299787/103255440-26a3c880-493e-11eb-9766-398fc2b44620.jpg)
 
