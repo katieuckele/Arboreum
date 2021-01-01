@@ -19,3 +19,15 @@ Broken down by country:
 ![PCA_prelim_arboreumNoPT](https://user-images.githubusercontent.com/30299787/103432337-2ef44180-4b92-11eb-8b3c-a65ef4976873.jpg)
 
 What strikes me is that after removing *P. tuberculatum*, the PA and CR individuals that were originally associated with BR individuals [Accessions #'s 4731 (CR), 4746 (CR), and 1039 (PA)] are now distinguished from them in PC space. This makes sense given that Eric noted that the typical BR morphology was distinct from that found in PA and CR. 
+
+### Looking at Brazil populations separately: 
+
+![PCA_prelim_BrazilNoPT_bypop](https://user-images.githubusercontent.com/30299787/103432765-315a9980-4b9a-11eb-821b-10fa9e934105.jpeg)
+
+This is kind of a mess, but there is still so much structure even when looking at just BR. It's crazy. 
+
+#### Are any of these patterns cause by missing data? 
+
+![PCA_prelim_BrazilNoPT_missingness](https://user-images.githubusercontent.com/30299787/103432788-97472100-4b9a-11eb-9081-8931d1bae949.jpg)
+
+It doesn't look like these patterns are due to differences in missingness. 
