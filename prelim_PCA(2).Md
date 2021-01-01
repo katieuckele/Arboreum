@@ -22,12 +22,12 @@ What strikes me is that after removing *P. tuberculatum*, the PA and CR individu
 
 ### Looking at Brazil populations separately: 
 
-![PCA_prelim_BrazilNoPT_bypop](https://user-images.githubusercontent.com/30299787/103432765-315a9980-4b9a-11eb-821b-10fa9e934105.jpeg)
+![PCA_prelim_BrazilNoPT_bypop](https://user-images.githubusercontent.com/30299787/103432798-ceb5cd80-4b9a-11eb-9512-ebb75c514fdc.jpeg)
 
 This is kind of a mess, but there is still so much structure even when looking at just BR. It's crazy. 
 
 #### Are any of these patterns cause by missing data? 
 
-![PCA_prelim_BrazilNoPT_missingness](https://user-images.githubusercontent.com/30299787/103432788-97472100-4b9a-11eb-9081-8931d1bae949.jpg)
+![PCA_prelim_BrazilNoPT_missingness](https://user-images.githubusercontent.com/30299787/103432799-d1182780-4b9a-11eb-9ebf-ff6710be97ba.jpg)
 
 It doesn't look like these patterns are due to differences in missingness. 
