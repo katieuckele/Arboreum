@@ -32,7 +32,7 @@ This is kind of a mess, but there is still so much structure even when looking a
 
 #### Plot each population on its own:
 
-![PCA_prelim_BrazilNoPT_splitbypop](https://user-images.githubusercontent.com/30299787/103447982-a041fc00-4c47-11eb-955f-a1ab3fedba58.jpg)
+![PCA_prelim_BrazilNoPT_splitbypop](https://user-images.githubusercontent.com/30299787/103448021-455cd480-4c48-11eb-8b2d-3a3b18164059.jpg)
 
 #### Are any of these patterns cause by missing data? 
 
