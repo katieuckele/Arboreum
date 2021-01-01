@@ -12,7 +12,7 @@ Broken down by country:
 
 ### All 494 individuals, including *P. tuberculatum* : 
 
-![prelim_arb_PCA](https://user-images.githubusercontent.com/30299787/103182265-123cce80-485f-11eb-809b-d053482f3b11.jpg)
+![PCA_prelim_arboreum_accessionLabelled](https://user-images.githubusercontent.com/30299787/103432396-fbfe7d80-4b92-11eb-8a0c-7f11e3750568.jpg)
 
 ### Remove *P. tuberculatum* and rerun PCA : 
 
