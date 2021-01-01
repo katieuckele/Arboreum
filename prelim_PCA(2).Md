@@ -16,5 +16,4 @@ Broken down by country:
 
 ### Remove *P. tuberculatum* and rerun PCA : 
 
-![prelim_arb_PCA_noPT](https://user-images.githubusercontent.com/30299787/103432214-48948980-4b90-11eb-80f4-8f31f370c2a6.jpg)
-
+![PCA_prelim_arboreumNoPT](https://user-images.githubusercontent.com/30299787/103432337-2ef44180-4b92-11eb-8b3c-a65ef4976873.jpg)
