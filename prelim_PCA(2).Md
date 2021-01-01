@@ -20,18 +20,22 @@ Broken down by country:
 
 What strikes me is that after removing *P. tuberculatum*, the PA and CR individuals that were originally associated with BR individuals [Accessions #'s 4731 (CR), 4746 (CR), and 1039 (PA)] are now distinguished from them in PC space. This makes sense given that Eric noted that the typical BR morphology was distinct from that found in PA and CR. 
 
+### Looking at the Costa Rican endemic variety separately: 
+
+![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103447576-ef852e00-4c41-11eb-9f42-b56761238363.jpg)
+
 ### Looking at Brazil populations separately: 
 
 ![PCA_prelim_BrazilNoPT_bypop](https://user-images.githubusercontent.com/30299787/103432798-ceb5cd80-4b9a-11eb-9512-ebb75c514fdc.jpeg)
 
 This is kind of a mess, but there is still so much structure even when looking at just BR. It's crazy. 
 
+#### Plot each population on its own:
+
+![PCA_prelim_BrazilNoPT_splitbypop](https://user-images.githubusercontent.com/30299787/103447982-a041fc00-4c47-11eb-955f-a1ab3fedba58.jpg)
+
 #### Are any of these patterns cause by missing data? 
 
 ![PCA_prelim_BrazilNoPT_missingness](https://user-images.githubusercontent.com/30299787/103432799-d1182780-4b9a-11eb-9ebf-ff6710be97ba.jpg)
 
 It doesn't look like these patterns are due to differences in missingness. 
-
-### Looking at the Costa Rican endemic variety separately: 
-
-![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103447576-ef852e00-4c41-11eb-9f42-b56761238363.jpg)
