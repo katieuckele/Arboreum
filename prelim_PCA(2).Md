@@ -31,3 +31,7 @@ This is kind of a mess, but there is still so much structure even when looking a
 ![PCA_prelim_BrazilNoPT_missingness](https://user-images.githubusercontent.com/30299787/103432799-d1182780-4b9a-11eb-9ebf-ff6710be97ba.jpg)
 
 It doesn't look like these patterns are due to differences in missingness. 
+
+### Look at the Costa Rican populations which cluster by themselves in the lower right of the above PCA without *P. tuberculatum*
+
+![PCA_prelim_CostaRicaNoPT_bypop](https://user-images.githubusercontent.com/30299787/103447376-6c62d880-4c3f-11eb-9a4c-04f58a2f2943.jpeg)
