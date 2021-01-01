@@ -34,4 +34,4 @@ It doesn't look like these patterns are due to differences in missingness.
 
 ### Looking at the Costa Rican endemic variety separately: 
 
-![PCA_prelim_CostaRicaNoPT_bypop](https://user-images.githubusercontent.com/30299787/103447376-6c62d880-4c3f-11eb-9a4c-04f58a2f2943.jpeg)
+![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103447545-7d144e00-4c41-11eb-959f-2fbdc6d8ce8a.jpg)
