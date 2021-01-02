@@ -26,9 +26,9 @@ What strikes me is that after removing *P. tuberculatum*, the PA and CR individu
 
 ### Looking at Brazil populations separately: 
 
-![PCA_prelim_BrazilNoPT_bypop](https://user-images.githubusercontent.com/30299787/103432798-ceb5cd80-4b9a-11eb-9512-ebb75c514fdc.jpeg)
+![PCA_prelim_BrazilNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103448462-f4041380-4c4e-11eb-881e-95ce6f0f0f11.jpg)
 
-This is kind of a mess, but there is still so much structure even when looking at just BR. It's crazy. Scroll down to the bottom for this same PCA but with points colored according to percent missingness. 
+The diverged populations on the right hand of the plot were collected from the eastern coast (see map). The majority of our populations were collected from Brasília. Scroll down to the bottom for this same PCA but with points colored according to percent missingness. 
 
 #### Plot each population on its own:
 
