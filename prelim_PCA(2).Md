@@ -29,12 +29,13 @@ Though the Costa Rican individuals cluster together and are distinct from Panama
 
 ![PCA_prelim_arboreumGroup2](https://user-images.githubusercontent.com/30299787/103464897-1b5cee00-4cec-11eb-9b5d-fa7147332a8b.jpeg)
 
+Unlike Group 1, the Costa Rican population (green) looks distinct from the Panamanian population (yellow). 
 
-### Looking at the Costa Rican endemic variety separately: 
+### PCA of Group 3 (the Costa Rican endemic variety): 
 
 ![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103447576-ef852e00-4c41-11eb-9f42-b56761238363.jpg)
 
-### Looking at Brazil populations separately: 
+### PCA of Group 4 (the Brazilian populations): 
 
 ![PCA_prelim_BrazilNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103448462-f4041380-4c4e-11eb-881e-95ce6f0f0f11.jpg)
 
