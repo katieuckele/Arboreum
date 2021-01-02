@@ -16,7 +16,7 @@ Broken down by country:
 
 ### Remove *P. tuberculatum* and rerun PCA : 
 
-![PCA_prelim_arboreumNoPT](https://user-images.githubusercontent.com/30299787/103432337-2ef44180-4b92-11eb-8b3c-a65ef4976873.jpg)
+![PCA_prelim_arboreumNoPT_groups](https://user-images.githubusercontent.com/30299787/103464652-4f371400-4cea-11eb-9511-511bc0676804.jpg)
 
 What strikes me is that after removing *P. tuberculatum*, the PA and CR individuals that were originally associated with BR individuals [Accessions #'s 4731 (CR), 4746 (CR), and 1039 (PA)] are now distinguished from them in PC space. This makes sense given that Eric noted that the typical BR morphology was distinct from that found in PA and CR. 
 
