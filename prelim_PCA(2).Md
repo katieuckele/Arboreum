@@ -20,6 +20,16 @@ Broken down by country:
 
 What strikes me is that after removing *P. tuberculatum*, the PA and CR individuals that were originally associated with BR individuals [Accessions #'s 4731 (CR), 4746 (CR), and 1039 (PA)] are now distinguished from them in PC space. This makes sense given that Eric noted that the typical BR morphology was distinct from that found in PA and CR. 
 
+### PCA of Group 1:
+![PCA_prelim_arboreumGroup1](https://user-images.githubusercontent.com/30299787/103464896-19932a80-4cec-11eb-8770-4ee2ecd57ad1.jpeg)
+
+Though the Costa Rican individuals cluster together and are distinct from Panamanian individuals, these clusters do not look super different from one another. 
+
+### PCA of Group 2: 
+
+![PCA_prelim_arboreumGroup2](https://user-images.githubusercontent.com/30299787/103464897-1b5cee00-4cec-11eb-9b5d-fa7147332a8b.jpeg)
+
+
 ### Looking at the Costa Rican endemic variety separately: 
 
 ![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103447576-ef852e00-4c41-11eb-9f42-b56761238363.jpg)
