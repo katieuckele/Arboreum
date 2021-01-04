@@ -37,7 +37,7 @@ Unlike Group 1, the Costa Rican population (green) looks distinct from the Panam
 
 ### PCA of Group 3 (the Costa Rican endemic variety): 
 
-![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103447576-ef852e00-4c41-11eb-9f42-b56761238363.jpg)
+![PCA_prelim_CostaRicaNoPT_bypop_map](https://user-images.githubusercontent.com/30299787/103499431-e096ab00-4dfc-11eb-8a29-de2e3ab44b68.jpg)
 
 ### PCA of Group 4 (the Brazilian populations): 
 
