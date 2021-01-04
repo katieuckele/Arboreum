@@ -22,7 +22,7 @@ What strikes me is that after removing *P. tuberculatum*, the PA and CR individu
 
 #### Colored by accession:
 
-![PCA_prelim_arboreumNoPT_byaccession](https://user-images.githubusercontent.com/30299787/103499212-243ce500-4dfc-11eb-8c18-c684e6483ffe.jpg)
+![PCA_prelim_arboreumNoPT_byaccession](https://user-images.githubusercontent.com/30299787/103499628-a083f800-4dfd-11eb-9550-83b04faffbf5.jpg)
 
 ### PCA of Group 1:
 ![PCA_prelim_arboreumGroup1](https://user-images.githubusercontent.com/30299787/103464933-68d95b00-4cec-11eb-92d9-67b2731a02d1.jpeg)
